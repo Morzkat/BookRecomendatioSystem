@@ -1,0 +1,5 @@
+Title: The Woman Who Smashed Codes, Author: Jason Fagone, Gender: IT, Published: 2017
+Title: Programming, Author: Bjarne Stroustrup, Gender: IT, Published: 2014
+Title: Clean Code, Author: Robert Martin, Gender: IT, Published: 2008
+Title: Pragmatic Programmer, Author: Andrew Hunt, David Thomas, Gender: IT, Published: 1999
+Title: C Programming Language, Author: Brian Kernighan, Dennis Ritchie, Gender: IT, Published: 1988
