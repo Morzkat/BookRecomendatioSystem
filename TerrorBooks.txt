@@ -1,0 +1,5 @@
+Title: Misery, Author: Stephen King, Gender: Terror, Published: 1987
+Title: It, Author: Stephen King, Gender: Terror, Published: 1986
+Title: The Shining, Author: Stephen King, Gender: Terror, Published: 1977
+Title: Carrie, Author: Stephen King, Gender: Terror, Published: 1974
+Title: Dracula, Author: Bram Stoker, Gender: Terror, Published: 1897
